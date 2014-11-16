@@ -13,6 +13,8 @@ namespace WebApplication1
         {
             //deneme
             //seneye hacca gidecem
+
+            //gitmesek mi para lazım :D
         }
     }
 }
